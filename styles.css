@@ -1,0 +1,25 @@
+body {
+	background-color: powderblue;
+}
+
+.middle-container{
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	height:90%;
+	width: 60%;
+	left:20%;
+	position:absolute;
+
+}
+
+.left-container{
+	float:left;
+	text-align:right;
+	width:18%;
+}
+
+.right-container{
+	width:18%;
+	float:right;
+}
+
