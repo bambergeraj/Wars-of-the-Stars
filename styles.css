@@ -23,6 +23,11 @@ body {
 	float:right;
 }
 
+.feed-box{
+	border: 2px solid green;
+	margin:5px;
+}
+
 .login-box{
 	width:30%;
 	margin:auto;
